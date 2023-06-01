@@ -9,6 +9,11 @@ export const GlobalStyle = createGlobalStyle`
     ::after,
     ::before {
       box-sizing: inherit;
+      margin:0px;
+    }
+
+    body{
+      font-family: 'Raleway', sans-serif;
     }
 
 `;
