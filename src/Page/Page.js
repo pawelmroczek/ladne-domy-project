@@ -1,8 +1,13 @@
-import Navigation from "./navigation"
+import Navigation from "./Navigation"
+import Header from "./Header"
 
 const Page =()=>{
   return (
-    <Navigation/>
+    <>
+     <Navigation/>
+     <Header/>
+    </>
+   
   )
 }
 
