@@ -5,7 +5,7 @@ import Aktualne from "./aktualne";
 
 
 const Inwestycje = () =>(
-  <>
+  <section>
     <InwestycjeHeader>INWESTYCJE </InwestycjeHeader>
     <MainContainer>
       <ButtonsContainer>
@@ -18,7 +18,7 @@ const Inwestycje = () =>(
         ))}
       </SectionsContainer>
     </MainContainer>
-  </>
+  </section>
 
 )
 

@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const StyledNav = styled.div`
+export const StyledNav = styled.nav`
   border-bottom:solid lightgray 1px;
   padding:5;
   width:100%;

@@ -15,7 +15,7 @@ const Header = () => {
   };
 
   return (
-    <div>
+    <header>
       <StyledHeader>
         ŁADNE <br /> DOMY
       </StyledHeader>
@@ -28,7 +28,7 @@ const Header = () => {
       />
 
       <StyledImage src={photo} />
-    </div>
+    </header>
   );
 };
 

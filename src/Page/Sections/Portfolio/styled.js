@@ -4,7 +4,7 @@ export const HeaderText = styled.p`
   padding-left:12%;
 `
 
-export const MainContainer = styled.div`
+export const MainContainer = styled.section`
   display:flex;
   align-items:center;
   padding:5% 10% 1%;

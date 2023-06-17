@@ -1,9 +1,10 @@
 import Inwestycje from "./Inwestycje";
 import Portfolio from "./Portfolio";
 
-const Sections = () => <div>
+const Sections = () => 
+<main>
   <Portfolio/>
   <Inwestycje/>
-</div>;
+</main>;
 
 export default Sections;
