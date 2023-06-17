@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# Project I'm Currently Working On: Ladne Domy Homepage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the project I'm currently working on! This project involves creating the homepage for "Ladne Domy," which is a company specializing in building beautiful homes. The main goal of this webpage is to showcase the company's expertise, highlight their portfolio of stunning homes, and provide essential information for potential clients.
+## Next Steps
 
+As I continue working on this project, my focus will be on refining the design, implementing responsive layouts, and optimizing the webpage for various devices and screen sizes. I will also be incorporating engaging animations and ensuring seamless navigation throughout the site.
+
+Stay tuned for updates as I progress with the development of the Ladne Domy homepage. I am excited to bring this project to life and provide an exceptional online experience for visitors interested in building their dream homes.
 ## Available Scripts
 
 In the project directory, you can run:
