@@ -14,6 +14,8 @@ export const InfoDiv = styled.div`
   text-align:center;
   padding:10px;
   flex-grow:3;
+  border-bottom:1px solid gray;
+  /* box-shadow: 0px 1px 11px 1px rgba(0, 0, 0); */
 `
 
 export const StyledImg = styled.img`

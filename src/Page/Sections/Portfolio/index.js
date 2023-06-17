@@ -41,9 +41,8 @@ const Portfolio = () => {
         <HeaderText>Design i innowacyjne rozwiązania</HeaderText>
       </HeaderContainer>
       <ButtonContainer>
-        <StyledButton onClick={moveBackward}>&lt;</StyledButton>
-        <ButtonLine></ButtonLine>
-        <StyledButton onClick={moveForward}>&gt;</StyledButton>
+        <StyledButton onClick={moveBackward}>&lt;-</StyledButton>
+        <StyledButton onClick={moveForward}>-&gt;</StyledButton>
       </ButtonContainer>
     </MainContainer>
     <Gallery counter={pageCounter} />

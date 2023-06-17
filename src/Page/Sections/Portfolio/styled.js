@@ -17,7 +17,8 @@ export const StyledButton = styled.button`
   background:none;
   font-size:50px;
   color:darkgray;
-
+  cursor: pointer;
+  
   &:hover{
     color:black;
   }
@@ -28,8 +29,4 @@ export const ButtonContainer= styled.div`
   align-items:center;
 `
 
-export const ButtonLine = styled.div`
-  background-color:darkgray;
-  width:15px;
-  height:5px;
-`
+
