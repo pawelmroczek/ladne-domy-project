@@ -16,4 +16,8 @@ export const GlobalStyle = createGlobalStyle`
       font-family: 'Raleway', sans-serif;
     }
 
+    button{
+      font-family: 'Raleway', sans-serif;
+    }
+
 `;
