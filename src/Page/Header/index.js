@@ -1,19 +1,9 @@
-import { useState } from "react";
-import { StyledImage, StyledHeader, Test, Linia } from "./styled";
+import { StyledImage, StyledHeader } from "./styled";
 import photo from "../../images/domdługa1.jpg";
 import Pointer from "../Pointer";
 
 const Header = () => {
-  const [isOpen, setOpen] = useState(false);
-
-  const mouseEntered = () => {
-    setOpen(true);
-  };
-
-  const mouseLeave = () => {
-    setOpen(false);
-  };
-
+  
   return (
     <header>
       <StyledHeader>

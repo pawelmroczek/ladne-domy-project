@@ -1,4 +1,3 @@
-import { SectionHeader } from "../styled";
 import { InwestycjeHeader, MainContainer, ButtonsContainer,StyledButton ,SectionsContainer} from "./styled";
 import Section from "./Section";
 import Aktualne from "./aktualne";
